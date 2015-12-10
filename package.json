@@ -14,7 +14,7 @@
     "test": "make test"
   },
   "dependencies": {
-    "uc.micro": "https://github.com/heelhook/uc.micro.git"
+    "uc.micro": "git+https://github.com/heelhook/uc.micro.git"
   },
   "devDependencies": {
     "ansi": "~0.3.0",
